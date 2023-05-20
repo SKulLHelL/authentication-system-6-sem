@@ -14,7 +14,7 @@
 
 1. Настройка
 
-    Для работы ElasticSearch требуется увеличить размер виртуальной памяти системы:
+Для работы ElasticSearch требуется увеличить размер виртуальной памяти системы:
 
 ```
 ┌──(root㉿kali)-[/home/kali]
@@ -25,6 +25,9 @@ vm.max_map_count = 262144
 Далее следуем инструкции по ссылке:
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+https://docs.docker.com/get-docker/
+https://docs.docker.com/desktop/install/linux-install/
+https://docs.docker.com/desktop/install/debian/
 
 2. После формирования файлов с конфигурациями, нужно запустить образы командой
 
