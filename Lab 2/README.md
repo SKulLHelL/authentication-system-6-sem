@@ -12,7 +12,7 @@
 
 1.C помощью Wireshark был собран сетевой трафик объёмом 100 Мб:
 
-![All text](./screenshots/lab_2_1.png)
+![All text](/screenshots/lab_2_1.png)
 
 2.C помощью утилиты Zeek была выделена метаинформация сетевого трафика
 (файлы http.log и dns.log в репозитории)
