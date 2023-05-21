@@ -1,5 +1,5 @@
 ---
-title: "Получение сведений о системе"
+title: "Развертывание Threat intelligence Platform OpenCTI"
 author: Голубенко Владимир Сергеевич
 format: 
     md:
