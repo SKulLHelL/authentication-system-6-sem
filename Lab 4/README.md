@@ -92,7 +92,7 @@
     INFO:pycti.entities:Listing Threat-Actors with filters null.
     Indicators imported successfully!
     ```
-    ![All text](./screenshots/lab_4_1.png)
+    ![All text](./screenshots/lab_4_2.png)
 5. Преобразуем все индикаторы в Observables
 ![All text](./screenshots/lab_4_3.png)
 ![All text](./screenshots/lab_4_4.png)
