@@ -8,4 +8,4 @@
 4. Развертывание Threat intelligence Platform OpenCTI
 5.
 6. Применение средств и методов OSINT
-7.
+7. Создание Static web page
