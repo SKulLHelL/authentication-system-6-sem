@@ -16,7 +16,7 @@
 
 ## Описание шагов:
 
-1.  Созданный сайт: ![screen_1](https://skullhell.github.io/My-Blog/)
+1.  Созданный сайт: [https://skullhell.github.io/My-Blog/]
 2.  Настраиваем .github/workflows/quarto_publish.yml
 
 ```
