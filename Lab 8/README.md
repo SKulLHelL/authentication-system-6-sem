@@ -17,7 +17,7 @@
 ## Описание шагов:
 
 1.  Созданный сайт: [https://skullhell.github.io/My-Blog/]
-2.  Настраиваем .github/workflows/quarto_publish.yml
+2.  Настраиваем .github/workflows/quarto-publish-example.yml
 
 ```
 - name: Publish to Netlify (and render)
