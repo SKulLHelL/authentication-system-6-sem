@@ -78,7 +78,7 @@ jobs:
       env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
 ```
-![screen](https://github.com/SKulLHelL/authentication-system-6-sem/blob/main/Lab%208/screenshots/Screenshot_1.png)
+![screen](https://github.com/SKulLHelL/authentication-system-6-sem/blob/main/Lab%208/screenshots/Screenshot_11.png)
 ![screen](https://github.com/SKulLHelL/authentication-system-6-sem/blob/main/Lab%208/screenshots/Screenshot_2.png)
 ![screen](https://github.com/SKulLHelL/authentication-system-6-sem/blob/main/Lab%208/screenshots/Screenshot_3.png)
 ![screen](https://github.com/SKulLHelL/authentication-system-6-sem/blob/main/Lab%208/screenshots/Screenshot_4.png)
