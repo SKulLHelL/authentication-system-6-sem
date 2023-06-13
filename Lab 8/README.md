@@ -20,11 +20,6 @@
 2.  Настраиваем .github/workflows/quarto-publish-example.yml
 
 ```
-- name: Publish to Netlify (and render)
-  uses: quarto-dev/quarto-actions/publish@v2
-  with:
-    target: netlify
-    NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
  on:
   push:
     branches: main
